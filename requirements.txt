@@ -1,11 +1,13 @@
 Flask
 flask_cors
-tensorflow-cpu
-numpy
+tensorflow
 Pillow
 flask_cors
 gunicorn
 opencv-python
 librosa
 joblib
+numpy
 moviepy
+requests
+boto3
