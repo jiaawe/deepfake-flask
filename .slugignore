@@ -2,3 +2,6 @@ static/
 static/0621a9a217-thank-you_20230905_182713_freemium.mp4
 *.jpg
 *.mp4
+*.psd
+/doc
+/test
