@@ -7,5 +7,5 @@ gunicorn
 opencv-python
 librosa
 joblib
-pip install numpy==1.21.6
+numpy==1.21.6
 moviepy
