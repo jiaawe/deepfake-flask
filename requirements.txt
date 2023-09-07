@@ -1,7 +1,7 @@
 Flask
 flask_cors
 tensorflow-cpu
-numpy==1.18.2
+numpy
 Pillow==7.0.0
 flask_cors
 gunicorn
