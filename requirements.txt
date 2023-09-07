@@ -1,11 +1,11 @@
 Flask
 flask_cors
 tensorflow-cpu
+numpy==1.18.2
 Pillow==7.0.0
 flask_cors
 gunicorn
 opencv-python
 librosa
 joblib==0.14.1
-numpy==1.21.6
 moviepy
