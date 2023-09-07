@@ -1,0 +1,11 @@
+Flask
+flask_cors
+tensorflow
+Pillow
+flask_cors
+gunicorn
+opencv-python
+librosa
+joblib
+numpy
+moviepy
