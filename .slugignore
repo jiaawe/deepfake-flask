@@ -5,3 +5,7 @@ static/0621a9a217-thank-you_20230905_182713_freemium.mp4
 *.psd
 /doc
 /test
+*.pkl
+*.h5
+model/audio.pkl
+model.cnn_model2.h5
