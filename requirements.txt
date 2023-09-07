@@ -4,8 +4,6 @@ tensorflow-cpu
 Pillow
 flask_cors
 gunicorn
-opencv-python
-librosa
 joblib
 numpy
 moviepy
