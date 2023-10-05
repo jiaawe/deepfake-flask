@@ -54,7 +54,8 @@ One other aspect of important deepfake detection is via the generated audio, whi
 ### Video Detection
 
 Regarding video detection of deepfakes, we will employ a mix of the two models that we have trained previously. Firstly, we will preprocess the uploaded video, extracting the audio and a random set of frames. The audio will be fed into the audio detection model we have used to identify modified audio. All the extracted frames will be fed into the CNN, and an aggregated score is obtained from the frames and subsequently classified accordingly. If either of the videos or audios detects deepfake, it will inform the user accordingly.
-<br>
+
+<p align="center"> <img src="images/CONF4.PNG" alt="Image Description"> </p>
 
 ## User Requirements
 ### Functional Requirements
