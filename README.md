@@ -1,4 +1,5 @@
 # Can Detect Or Not Ah?
+Application Link: https://can-detect-or-not-ah.netlify.app/video
 
 ## Introduction
 In the ever-evolving landscape of artificial intelligence (AI), the rise of sophisticated technology has brought with it a double-edged sword. While AI has unlocked unprecedented possibilities and efficiencies across various sectors, it has also given rise to the proliferation of deepfake technology. Deepfakes, a portmanteau of "deep learning" and "fake," represent a formidable manifestation of AI's potential, one that poses a significant problem to society. [1]
