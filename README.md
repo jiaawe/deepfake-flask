@@ -83,6 +83,11 @@ Regarding video detection of deepfakes, we will employ a mix of the two models t
 
 **Flask**: Back-End Framework
 
+**Netlify**: Front-End Deployment
+
+**AWS EC2**: Back-End Hosting
+
+**AWS S3**: Images, Audio, and Video Hosting
 
 ### REST API
 **POST /upload**: Load images to our CNN image detection model, and return the prediction.
